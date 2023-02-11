@@ -1,0 +1,10 @@
+.addForm{
+    display: flex;
+    flex: 1;
+    margin-top: 24px;
+    padding-top: 20px;
+}
+
+.btn {
+    margin-left: 12px;
+}
